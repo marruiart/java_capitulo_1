@@ -1,10 +1,10 @@
 /**
  * Ejercicio 1
- * Escribe una programa que muestre tu nombre por pantalla.
+ * This program prints my name on the standard output.
  */
 
 public class Ejercicio1 {
     public static void main(String args[]) {
-        System.out.println("Hello world!");
+        System.out.println("Marina Ruiz");
     }
 }
