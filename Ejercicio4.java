@@ -1,5 +1,4 @@
 /**
- * Ejercicio 4
  * This program prints a formatted timetable using printf.
  */
 

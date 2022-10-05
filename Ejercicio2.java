@@ -1,5 +1,4 @@
 /**
- * Ejercicio 2
  * This program prints on different lines of the standard output my name, street
  * and telephone.
  */

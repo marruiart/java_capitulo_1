@@ -1,5 +1,4 @@
 /**
- * Ejercicio 1
  * This program prints my name on the standard output.
  */
 

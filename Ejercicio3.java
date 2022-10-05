@@ -1,5 +1,4 @@
 /**
- * Ejercicio 3
  * This program prints a formatted english-spanish dictionary output using printf
  */
 

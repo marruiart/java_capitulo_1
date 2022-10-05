@@ -1,5 +1,4 @@
 /**
- * Ejercicio 5
  * This program prints a formatted timetable using printf and colours the 
  * different subjects.
  */
