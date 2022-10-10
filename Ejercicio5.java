@@ -1,6 +1,8 @@
 /**
  * This program prints a formatted timetable using printf and colours the 
  * different subjects.
+ * 
+ * @autor Marina Ruiz
  */
 
 public class Ejercicio5 {

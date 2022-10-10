@@ -1,5 +1,7 @@
 /**
  * This program prints a formatted timetable using printf.
+ * 
+ * @autor Marina Ruiz
  */
 
 public class Ejercicio4 {

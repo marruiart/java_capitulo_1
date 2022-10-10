@@ -1,5 +1,7 @@
 /**
  * This program prints a piramid of 9 asterisks of base using println
+ * 
+ * @autor Marina Ruiz
  */
 
 public class Ejercicio6 {

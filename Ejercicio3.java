@@ -1,5 +1,7 @@
 /**
  * This program prints a formatted english-spanish dictionary output using printf
+ * 
+ * @autor Marina Ruiz
  */
 
 public class Ejercicio3 {

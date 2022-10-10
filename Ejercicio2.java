@@ -1,11 +1,13 @@
 /**
  * This program prints on different lines of the standard output my name, street
  * and telephone.
+ * 
+ *  @autor Marina Ruiz
  */
 public class Ejercicio2 {
     public static void main(String args[]) {
-        System.out.println("Name: Marina Ruiz");
-        System.out.println("Street: Privet Drive");
-        System.out.println("Telephone: 612345678");
+        System.out.print("Name: Marina Ruiz\n");
+        System.out.print("Street: Privet Drive\n");
+        System.out.print("Telephone: 612345678\n");
     }
 }
